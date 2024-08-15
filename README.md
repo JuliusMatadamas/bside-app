@@ -4,7 +4,7 @@ BSide App es una aplicación Java Spring Boot para gestionar información de est
 
 ## Instalación
 
-1. Asegúrate de tener instalado Java JDK 11 o superior y Maven.
+1. Asegúrate de tener instalado Java JDK 21 o superior y Maven.
 2. Clona este repositorio: `git clone [URL_DEL_REPOSITORIO]`
 3. Navega al directorio del proyecto: `cd bsideapp`
 4. Instala las dependencias: `mvn install`
